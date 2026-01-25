@@ -1,0 +1,251 @@
+ID,Aspect,New Aspect,Dimension,New Dimension,Code,New Code
+1,Use Context,Usage Context,Use Purpose,Use Purpose,Live performance,Live performance
+2,Use Context,Usage Context,Use Purpose,Use Purpose,Composition,Composition
+3,Use Context,Usage Context,Use Purpose,Use Purpose,Entertainment,Recreation
+4,Use Context,Usage Context,Use Purpose,Use Purpose,Skill acquisition,Skill acquisition
+5,Use Context,Usage Context,Use Purpose,Use Purpose,Art installation,Art installation
+6,Use Context,Usage Context,Use Purpose,Use Purpose,Other,Other
+7,Use Context,Usage Context,Use Purpose,Use Purpose,NA,NA
+8,Use Context,Usage Context,Musical Context,Musical Context,Jazz Improvisation,Jazz
+9,Use Context,Usage Context,Musical Context,Musical Context,Electronic music,Electronic music
+10,Use Context,Usage Context,Musical Context,Musical Context,New music,New music
+11,Use Context,Usage Context,Musical Context,Musical Context,Western classical,Western classical
+12,Use Context,Usage Context,Musical Context,Musical Context,Popular music,Popular music
+13,Use Context,Usage Context,Musical Context,Musical Context,Traditional music,Traditional music
+14,Use Context,Usage Context,Musical Context,Musical Context,Live coding,Live coding
+15,Use Context,Usage Context,Musical Context,Musical Context,Virtuosic practice,Virtuosic practice
+16,Use Context,Usage Context,Musical Context,Musical Context,Non-specific,Non-specific
+17,Use Context,Usage Context,Musical Context,Musical Context,Other,Other
+18,Use Context,Usage Context,Musical Context,Musical Context,NA,NA
+19,Use Context,Usage Context,Musical Context,Musical Context,Score-based,Repertoire
+20,Use Context,Usage Context,Target User ,Target User ,Musicians,Musicians
+21,Use Context,Usage Context,Target User ,Target User ,Novice users,Novice users
+22,Use Context,Usage Context,Target User ,Target User ,Audience,Audience
+23,Use Context,Usage Context,Target User ,Target User ,Other,Other
+24,Use Context,Usage Context,Target User ,Target User ,NA,NA
+25,Use Context,Usage Context,Collaboration Structure,Participant Topology,1:1 collaboration,1:1
+26,Use Context,Usage Context,Collaboration Structure,Participant Topology,1:N collaboration,1:N
+27,Use Context,Usage Context,Collaboration Structure,Participant Topology,N:1 collaboration,N:1
+28,Use Context,Usage Context,Collaboration Structure,Participant Topology,N:N collaboration,N:N
+29,Use Context,Usage Context,Collaboration Structure,Participant Topology,Agent only,0:N (Agent only)
+30,Use Context,Usage Context,Collaboration Structure,Participant Topology,Other,Other
+31,Use Context,Usage Context,Collaboration Structure,Participant Topology,NA,NA
+32,Use Context,Usage Context,Agent role,Agent Role,Lead,Lead
+33,Use Context,Usage Context,Agent role,Agent Role,Accompanist,Accompanist
+34,Use Context,Usage Context,Agent role,Agent Role,Controller,Controller
+35,Use Context,Usage Context,Agent role,Agent Role,Mapper,Mapper
+36,Use Context,Usage Context,Agent role,Agent Role,Remixer,Remixer
+37,Use Context,Usage Context,Agent role,Agent Role,Interpreter,Interpreter
+38,Use Context,Usage Context,Agent role,Agent Role,Conductor,Conductor
+39,Use Context,Usage Context,Agent role,Agent Role,Evaluator,Evaluator
+40,Use Context,Usage Context,Agent role,Agent Role,Other,Other
+41,Use Context,Usage Context,Agent role,Agent Role,NA,NA
+42,Use Context,Usage Context,User role,User Role,Lead,Lead
+43,Use Context,Usage Context,User role,User Role,Accompanist,Accompanist
+44,Use Context,Usage Context,User role,User Role,Non-musical performer,Non-musical performer
+45,Use Context,Usage Context,User role,User Role,Coder,Coder
+46,Use Context,Usage Context,User role,User Role,Mixer,Mixer
+47,Use Context,Usage Context,User role,User Role,Conductor,Conductor
+48,Use Context,Usage Context,User role,User Role,Manipulator,Manipulator
+49,Use Context,Usage Context,User role,User Role,Other,Other
+50,Use Context,Usage Context,User role,User Role,NA,NA
+51,Use Context,Usage Context,User Preference,Value Emphasis,Control,Control
+52,Use Context,Usage Context,User Preference,Value Emphasis,Diversity,Diversity
+53,Use Context,Usage Context,User Preference,Value Emphasis,Coherence,Coherence
+54,Use Context,Usage Context,User Preference,Value Emphasis,Novelty,Novelty
+55,Use Context,Usage Context,User Preference,Value Emphasis,Personalization,Personalization
+56,Use Context,Usage Context,User Preference,Value Emphasis,Other,Other
+57,Use Context,Usage Context,User Preference,Value Emphasis,NA,NA
+58,Use Context,Usage Context,Expected impact,Outcome Emphasis,Expression,Expression
+59,Use Context,Usage Context,Expected impact,Outcome Emphasis,Immersion,Immersion
+60,Use Context,Usage Context,Expected impact,Outcome Emphasis,Exploration,Exploration
+61,Use Context,Usage Context,Expected impact,Outcome Emphasis,Reflection,Reflection
+62,Use Context,Usage Context,Expected impact,Outcome Emphasis,Engagement,Engagement
+63,Use Context,Usage Context,Expected impact,Outcome Emphasis,Delegation,Delegation
+64,Use Context,Usage Context,Expected impact,Outcome Emphasis,Empowerment,Empowerment
+65,Use Context,Usage Context,Expected impact,Outcome Emphasis,Other,Other
+66,Use Context,Usage Context,Expected impact,Outcome Emphasis,NA,NA
+67,Interaction,Interaction,Interface,Interface,Graphical user interface,Graphical user interface
+68,Interaction,Interaction,Interface,Interface,Programming interface,Programming interface
+69,Interaction,Interaction,Interface,Interface,Conventional instrument,Conventional instrument
+70,Interaction,Interaction,Interface,Interface,Custom instrument,Custom instrument
+71,Interaction,Interaction,Interface,Interface,DJ gear,DJ gear
+72,Interaction,Interaction,Interface,Interface,Embodied agent,Embodied agent
+73,Interaction,Interaction,Interface,Interface,Stage visual,Stage visual
+74,Interaction,Interaction,Interface,Interface,Sensor device,Sensor device
+75,Interaction,Interaction,Interface,Interface,XR Interface,XR Interface
+76,Interaction,Interaction,Interface,Interface,Other,Other
+77,Interaction,Interaction,Interface,Interface,NA,NA
+78,Interaction,Interaction,Input modality,Input Modality,Symbolic music,Symbolic music
+79,Interaction,Interaction,Input modality,Input Modality,Raw audio waveform,Audio waveform
+80,Interaction,Interaction,Input modality,Input Modality,Gesture,Gesture
+81,Interaction,Interaction,Input modality,Input Modality,Visual,Visual
+82,Interaction,Interaction,Input modality,Input Modality,Control signals,Control signals
+83,Interaction,Interaction,Input modality,Input Modality,Natural language,Natural language
+84,Interaction,Interaction,Input modality,Input Modality,Programming language,Programming language
+85,Interaction,Interaction,Input modality,Input Modality,On-body sensor data,Physiological data
+86,Interaction,Interaction,Input modality,Input Modality,Exogenous sensor data,Exogenous sensor data
+87,Interaction,Interaction,Input modality,Input Modality,Other,Other
+88,Interaction,Interaction,Input modality,Input Modality,NA,NA
+89,Interaction,Interaction,Output modality,Output Modality,Symbolic music,Symbolic music
+90,Interaction,Interaction,Output modality,Output Modality,Raw audio waveform,Audio waveform
+91,Interaction,Interaction,Output modality,Output Modality,Gesture,Gesture
+92,Interaction,Interaction,Output modality,Output Modality,Visual,Visual
+93,Interaction,Interaction,Output modality,Output Modality,Control signals,Control signals
+94,Interaction,Interaction,Output modality,Output Modality,Natural language,Natural language
+95,Interaction,Interaction,Output modality,Output Modality,Programming language,Programming language
+96,Interaction,Interaction,Output modality,Output Modality,On-body sensor data,Physiological data
+97,Interaction,Interaction,Output modality,Output Modality,Exogenous sensor data,Exogenous sensor data
+98,Interaction,Interaction,Output modality,Output Modality,Other,Other
+99,Interaction,Interaction,Output modality,Output Modality,NA,NA
+100,Interaction,Interaction,Input musical element,Input Musical Element,Melody,Melody
+101,Interaction,Interaction,Input musical element,Input Musical Element,Harmony,Harmony
+102,Interaction,Interaction,Input musical element,Input Musical Element,Rhythm,Rhythm
+103,Interaction,Interaction,Input musical element,Input Musical Element,Timbre,Timbre
+104,Interaction,Interaction,Input musical element,Input Musical Element,Control parameters,Control parameters
+105,Interaction,Interaction,Input musical element,Input Musical Element,Lyrics,Lyrics
+106,Interaction,Interaction,Input musical element,Input Musical Element,Sound texture,Sound texture
+107,Interaction,Interaction,Input musical element,Input Musical Element,Rendered track,Rendered track
+108,Interaction,Interaction,Input musical element,Input Musical Element,Other,Other
+109,Interaction,Interaction,Input musical element,Input Musical Element,NA,NA
+110,Interaction,Interaction,Output musical element,Output Musical Element,Melody,Melody
+111,Interaction,Interaction,Output musical element,Output Musical Element,Harmony,Harmony
+112,Interaction,Interaction,Output musical element,Output Musical Element,Rhythm,Rhythm
+113,Interaction,Interaction,Output musical element,Output Musical Element,Timbre,Timbre
+114,Interaction,Interaction,Output musical element,Output Musical Element,Control parameters,Control parameters
+115,Interaction,Interaction,Output musical element,Output Musical Element,Lyrics,Lyrics
+116,Interaction,Interaction,Output musical element,Output Musical Element,Sound texture,Sound texture
+117,Interaction,Interaction,Output musical element,Output Musical Element,Rendered track,Rendered track
+118,Interaction,Interaction,Output musical element,Output Musical Element,Other,Other
+119,Interaction,Interaction,Output musical element,Output Musical Element,NA,NA
+120,Interaction,Interaction,Musical outcome,Musical Outcome,Monophony,Monophony
+121,Interaction,Interaction,Musical outcome,Musical Outcome,Homophony,Homophony
+122,Interaction,Interaction,Musical outcome,Musical Outcome,Polyphony,Polyphony
+123,Interaction,Interaction,Musical outcome,Musical Outcome,Heterophony,Heterophony
+124,Interaction,Interaction,Musical outcome,Musical Outcome,Textural,Textural
+125,Interaction,Interaction,Musical outcome,Musical Outcome,Non-specific,Non-specific
+126,Interaction,Interaction,Musical outcome,Musical Outcome,Other,Other
+127,Interaction,Interaction,Musical outcome,Musical Outcome,NA,NA
+128,Interaction,Interaction,Planning,Planning,Score planning,Score
+129,Interaction,Interaction,Planning,Planning,Timeline,Initiative timeline 
+130,Interaction,Interaction,Planning,Planning,Tailoring,Tailoring
+131,Interaction,Interaction,Planning,Planning,User configuration,User configuration
+132,Interaction,Interaction,Planning,Planning,Predefined cues,Predefined cues
+133,Interaction,Interaction,Planning,Planning,Material prep,Material prep
+134,Interaction,Interaction,Planning,Planning,No planning,No planning
+135,Interaction,Interaction,Planning,Planning,Other,Other
+136,Interaction,Interaction,Planning,Planning,NA,NA
+137,Interaction,Interaction,Temporal structure,Temporal Structure,Dense parallel,Dense parallel
+138,Interaction,Interaction,Temporal structure,Temporal Structure,Sparse parallel,Sparse parallel
+139,Interaction,Interaction,Temporal structure,Temporal Structure,Turn-taking,Turn-taking
+140,Interaction,Interaction,Temporal structure,Temporal Structure,Hybrid,Hybrid
+141,Interaction,Interaction,Temporal structure,Temporal Structure,Unstructured,Unstructured
+142,Interaction,Interaction,Temporal structure,Temporal Structure,Other,Other
+143,Interaction,Interaction,Temporal structure,Temporal Structure,NA,NA
+144,Interaction,Interaction,Data alignment,Data Alignment,Continuous stream,Continuous stream
+145,Interaction,Interaction,Data alignment,Data Alignment,Periodic,Periodic
+146,Interaction,Interaction,Data alignment,Data Alignment,Background trigger,Background trigger
+147,Interaction,Interaction,Data alignment,Data Alignment,Other,Other
+148,Interaction,Interaction,Data alignment,Data Alignment,NA,NA
+149,Interaction,Interaction,Control Mode,Control Mode,Explicit,Explicit
+150,Interaction,Interaction,Control Mode,Control Mode,Implicit,Implicit
+151,Interaction,Interaction,Control Mode,Control Mode,No control,No control
+152,Interaction,Interaction,Control Mode,Control Mode,Other,Other
+153,Interaction,Interaction,Control Mode,Control Mode,NA,NA
+154,Interaction,Interaction,Control Scope,Control Scope,Behavioral direction,High-level behavior
+155,Interaction,Interaction,Control Scope,Control Scope,Style direction,Global style
+156,Interaction,Interaction,Control Scope,Control Scope,Musical structure,Musical layout
+157,Interaction,Interaction,Control Scope,Control Scope,Musical material,Musical material
+158,Interaction,Interaction,Control Scope,Control Scope,Other,Other
+159,Interaction,Interaction,Control Scope,Control Scope,NA,NA
+160,Interaction,Interaction,System initiative,System Initiative,Reactive,Reactive
+161,Interaction,Interaction,System initiative,System Initiative,Proactive,Proactive
+162,Interaction,Interaction,System initiative,System Initiative,Mixed-initiative,Mixed-initiative
+163,Interaction,Interaction,System initiative,System Initiative,Other,Other
+164,Interaction,Interaction,System initiative,System Initiative,NA,NA
+165,Interaction,Interaction,Agency framing,Agency Framing,Partner,Partner
+166,Interaction,Interaction,Agency framing,Agency Framing,Tool,Tool
+167,Interaction,Interaction,Agency framing,Agency Framing,Hybrid,Hybrid
+168,Interaction,Interaction,Agency framing,Agency Framing,Other,Other
+169,Interaction,Interaction,Agency framing,Agency Framing,NA,NA
+170,Technology,Technology,Model,Model,Rule-based,Rule-based
+171,Technology,Technology,Model,Model,Stochastic process,Stochastic process
+172,Technology,Technology,Model,Model,Classical ML,Classical ML
+173,Technology,Technology,Model,Model,Shallow neural network,Shallow neural network
+174,Technology,Technology,Model,Model,Task-specific DNN,Task-specific DNN
+175,Technology,Technology,Model,Model,Transformer,Generative AI
+176,Technology,Technology,Model,Model,Other,Other
+177,Technology,Technology,Model,Model,NA,NA
+178,Technology,Technology,Learning algorithm,Learning Algorithm,Supervised learning,Supervised learning
+179,Technology,Technology,Learning algorithm,Learning Algorithm,Unsupervised learning,Unsupervised learning
+180,Technology,Technology,Learning algorithm,Learning Algorithm,Self-supervised learning,Self-supervised learning
+181,Technology,Technology,Learning algorithm,Learning Algorithm,Reinforcement learning,Reinforcement learning
+182,Technology,Technology,Learning algorithm,Learning Algorithm,Other,Other
+183,Technology,Technology,Learning algorithm,Learning Algorithm,NA,NA
+184,Technology,Technology,Inference objective,Inference Objective,Regression,Regression
+185,Technology,Technology,Inference objective,Inference Objective,Classification,Classification
+186,Technology,Technology,Inference objective,Inference Objective,Retrieval,Retrieval
+187,Technology,Technology,Inference objective,Inference Objective,Unimodal generation,Unimodal generation
+188,Technology,Technology,Inference objective,Inference Objective,Cross-modal generation,Cross-modal generation
+189,Technology,Technology,Inference objective,Inference Objective,Other,Other
+190,Technology,Technology,Inference objective,Inference Objective,NA,NA
+191,Technology,Technology,Adaptation,Adaptation,No adaptation,No adaptation
+192,Technology,Technology,Adaptation,Adaptation,Online adaptation,Online adaptation
+193,Technology,Technology,Adaptation,Adaptation,Offline adaptation,Offline adaptation
+194,Technology,Technology,Adaptation,Adaptation,Continual adaptation,Continual adaptation
+195,Technology,Technology,Adaptation,Adaptation,Other,Other
+196,Technology,Technology,Adaptation,Adaptation,NA,NA
+197,Technology,Technology,Technology infrastructure,Infrastructure,Music programming environment,Music programming environment
+198,Technology,Technology,Technology infrastructure,Infrastructure,General programming environment,General programming environment
+199,Technology,Technology,Technology infrastructure,Infrastructure,Protocol,Music protocol
+200,Technology,Technology,Technology infrastructure,Infrastructure,Software toolkit,Software toolkit
+201,Technology,Technology,Technology infrastructure,Infrastructure,Hardware toolkit,Hardware toolkit
+202,Technology,Technology,Technology infrastructure,Infrastructure,AI/ML framework,AI/ML framework
+203,Technology,Technology,Technology infrastructure,Infrastructure,Other,Other
+204,Technology,Technology,Technology infrastructure,Infrastructure,NA,NA
+205,Technology,Technology,Technology desiderata,Technical Emphasis,Latency,Latency
+206,Technology,Technology,Technology desiderata,Technical Emphasis,Efficiency,Efficiency
+207,Technology,Technology,Technology desiderata,Technical Emphasis,Error handling,Error handling
+208,Technology,Technology,Technology desiderata,Technical Emphasis,Tempo adaptability,Tempo adaptability
+209,Technology,Technology,Technology desiderata,Technical Emphasis,Other,Other
+210,Technology,Technology,Technology desiderata,Technical Emphasis,NA,NA
+211,Technology,Technology,Runtime requirements,Runtime Requirements,Commodity machine,Commodity machine
+212,Technology,Technology,Runtime requirements,Runtime Requirements,High-performance compute,High-performance compute
+213,Technology,Technology,Runtime requirements,Runtime Requirements,Dedicated commodity hardware,Dedicated commodity hardware
+214,Technology,Technology,Runtime requirements,Runtime Requirements,Custom hardware,Custom hardware
+215,Technology,Technology,Runtime requirements,Runtime Requirements,Cloud API,Cloud API
+216,Technology,Technology,Runtime requirements,Runtime Requirements,Other,Other
+217,Technology,Technology,Runtime requirements,Runtime Requirements,NA,NA
+218,Technology,Technology,Workflow Integration,Integration,Bespoke setup,Bespoke setup
+219,Technology,Technology,Workflow Integration,Integration,Source-only prototype,Source-only prototype
+220,Technology,Technology,Workflow Integration,Integration,Developer Toolkit,Developer Toolkit
+221,Technology,Technology,Workflow Integration,Integration,Packaged standalone,Packaged standalone
+222,Technology,Technology,Workflow Integration,Integration,Tool-integrated,Tool-integrated
+223,Technology,Technology,Workflow Integration,Integration,Other,Other
+224,Technology,Technology,Workflow Integration,Integration,NA,NA
+225,Ecosystem,Ecosystem,Sociocultural factors,Sociocultural Factors,Musical genre,Musical genre
+226,Ecosystem,Ecosystem,Sociocultural factors,Sociocultural Factors,Musical practice,Musical practice
+227,Ecosystem,Ecosystem,Sociocultural factors,Sociocultural Factors,AI perception,AI perception
+228,Ecosystem,Ecosystem,Sociocultural factors,Sociocultural Factors,Cultural conservatism,Cultural conservatism
+229,Ecosystem,Ecosystem,Sociocultural factors,Sociocultural Factors,Other,Other
+230,Ecosystem,Ecosystem,Sociocultural factors,Sociocultural Factors,NA,NA
+231,Ecosystem,Ecosystem,Policy factors,Policy Considerations,Copyright concerns,Authorship
+232,Ecosystem,Ecosystem,Policy factors,Policy Considerations,Plagiarism,Integrity
+233,Ecosystem,Ecosystem,Policy factors,Policy Considerations,Data privacy,Data privacy
+234,Ecosystem,Ecosystem,Policy factors,Policy Considerations,Personality rights,Personality rights
+235,Ecosystem,Ecosystem,Policy factors,Policy Considerations,Other,Other
+236,Ecosystem,Ecosystem,Policy factors,Policy Considerations,NA,NA
+237,Ecosystem,Ecosystem,Economic consequences,Economic Consequences,Job replacement,Job replacement
+238,Ecosystem,Ecosystem,Economic consequences,Economic Consequences,Devaluing,Devaluing
+239,Ecosystem,Ecosystem,Economic consequences,Economic Consequences,Other,Other
+240,Ecosystem,Ecosystem,Economic consequences,Economic Consequences,NA,NA
+241,Ecosystem,Ecosystem,Musical-societal consequences,Musical-Societal Consequences,Reshaping idioms,Reshaping idioms
+242,Ecosystem,Ecosystem,Musical-societal consequences,Musical-Societal Consequences,Cultural exchange,Cultural exchange
+243,Ecosystem,Ecosystem,Musical-societal consequences,Musical-Societal Consequences,Cross-domain collaboration,Collaboration
+244,Ecosystem,Ecosystem,Musical-societal consequences,Musical-Societal Consequences,Revitalization,Revitalization
+245,Ecosystem,Ecosystem,Musical-societal consequences,Musical-Societal Consequences,Skill dilution,Skill dilution
+246,Ecosystem,Ecosystem,Musical-societal consequences,Musical-Societal Consequences,Democratization,Democratization
+247,Ecosystem,Ecosystem,Musical-societal consequences,Musical-Societal Consequences,Misrepresentation,Misrepresentation
+248,Ecosystem,Ecosystem,Musical-societal consequences,Musical-Societal Consequences,Over-reliance,Over-reliance
+249,Ecosystem,Ecosystem,Musical-societal consequences,,Other,Other
+250,Ecosystem,Ecosystem,Musical-societal consequences,,NA,NA

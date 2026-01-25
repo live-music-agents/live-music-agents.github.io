@@ -2,7 +2,7 @@
 import React, { useState, useMemo } from 'react';
 import type { AspectData, CodeMap, Paper } from '../types';
 import { View } from '../types';
-import { ASPECT_COLORS, DEFAULT_COLORS } from '../constants';
+import { ASPECT_COLORS, DEFAULT_COLORS, PAPER_URL } from '../constants';
 
 interface SidebarProps {
   aspects: AspectData;
@@ -344,9 +344,16 @@ const Sidebar: React.FC<SidebarProps> = ({
 
   return (
     <aside className="w-full md:w-96 lg:w-[500px] bg-gray-800 p-6 flex-shrink-0 shadow-lg md:h-screen md:overflow-y-auto no-scrollbar">
-      <h1 className="text-3xl font-bold text-white mb-8 leading-snug">
-        A Design Space for<br />Live Music Agents
-      </h1>
+      <a
+        href={PAPER_URL}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="inline-block"
+      >
+        <h1 className="text-3xl font-bold text-white mb-8 leading-snug hover:text-white/90 transition-colors">
+          A Design Space for<br />Live Music Agents
+        </h1>
+      </a>
       
       <div className="flex gap-3 mb-8">
         <button 
@@ -359,7 +366,7 @@ const Sidebar: React.FC<SidebarProps> = ({
           About
         </button>
         <a 
-          href="#" 
+          href={PAPER_URL}
           target="_blank" 
           rel="noopener noreferrer"
           className="flex-1 bg-gray-700 hover:bg-gray-600 text-white text-center py-2 px-2 rounded text-sm font-medium transition-colors shadow-md hover:shadow-lg flex items-center justify-center gap-2"
