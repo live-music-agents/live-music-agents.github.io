@@ -1,0 +1,193 @@
+Paper ID,Title,URL,Venue,Year
+1,"Too Many Notes: Computers, Complexity and Culture in ""Voyager""",https://www.youtube.com/watch?v=hO47LiHsFtc&list=RDhO47LiHsFtc&start_radio=1,Leonardo Music Journal,2000
+2,Reflexive Loopers for Solo Musical Improvisation,https://www.youtube.com/watch?v=Xp8tixrPM1U,CHI,2013
+3,Shimon: an interactive improvisational robotic marimba player,https://www.youtube.com/watch?v=0dOn-EvSPUs,CHI EA,2010
+4,Piano Genie,,IUI,2019
+5,BachDuet: A Deep Learning System for Human-Machine Counterpoint Improvisation,,NIME,2020
+6,Adaptive Accompaniment with ReaLchords,,ICML,2024
+7,Spire Muse:  A virtual musical partner for creative brainstorming,,NIME,2021
+8,GenJam: A Genetic Algorithm for Generating Jazz Solos,,ICMC,1994
+9,Cocreative Interaction: Somax2 and the REACH Project,,Computer Music Journal,2022
+10,RAVE: A variational autoencoder for fast and high-quality neural audio synthesis,,Preprint,2021
+11,VampNet: Music generation via masked acoustic token modeling,,ISMIR,2023
+12,M and Jam Factory,,Computer Music Journal,1987
+13,The Synthetic Performer in The Context of Live Performance,,ICMC,1984
+14,Mimi4x: an interactive audio-visual installation for high-level structural improvisation,https://www.youtube.com/watch?v=lFlFrHdJwwI,ICME,2010
+15,Approaches to Musical Expression in Harmonix Video Games (The Axe),,Mathemusical Conversations: Mathematics and Computation in Music Performance and Composition,2016
+16,Reflections on Eight Years of Instrument Creation with Machine Learning,,NIME,1997
+17,AI-terity 2.0: An Autonomous NIME Featuring GANSpaceSynth Deep Learning Model,,NIME,2021
+18,Composing the Assemblage: Probing Aesthetic and Technical Dimensions of Artistic Creation with Machine Learning (Case 1),,Computer Music Journal,2022
+19,"The Jam_bot, a real-time system for collaborative free improvisation with music language models",,ISMIR,2025
+20,Improvised Performance Following in Real Time for Automatic Accompaniment,,ICASSP,2025
+21,Real-time Timbre Remapping with Differentiable DSP,,NIME,2024
+22,The reactive accompanist: Adaptation and behavior decomposition in a music system,,The Biology and Technology of Intelligent Autonomous Agents,1995
+23,BoB: an interactive improvisational music companion,https://quod.lib.umich.edu/i/icmc/bbp2372.2001.106/--machine-learning-techniques-for-real-time-improvisational?view=image,AGENTS,2000
+24,A Bayesian Network for Real-Time Musical Accompaniment,,NIPS,2001
+25,The continuator: Musical interaction with style.,,Journal of New Music Research,2003
+26,ImproteK: Introducing Scenarios into Human-Computer Music Improvisation,,CIE,2017
+27,In a Silent Way: Communication Between AI and Improvising Musicians Beyond Sound,,CHI,2019
+28,RL-Duet: Online Music Accompaniment Generation Using Deep Reinforcement Learning,,AAAI,2020
+29,SongDriver: Real-time Music Accompaniment Generation without Logical Latency nor Exposure Bias,,MM,2022
+30,Magenta RealTime: An Open-Weights Live Music Model (to be Arxiv'ed this month),https://www.arxiv.org/pdf/2508.04651,Preprint,2025
+31,An On-Line Algorithm for Real-Time Accompaniment,,ICMC,1984
+32,Active Trading with Impro-Visor,,MUME,2016
+33,"The Wekinator: a system for real-time, interactive machine learning in music",,NIME,2009
+34,Stacco: Exploring the Embodied Perception of Latent Representations in Neural Synthesis,https://www.youtube.com/watch?v=Bt3O-jhSqiU&t=75s,NIME,2024
+35,Gestural hyper instrument collaboration with generative computation for real time creativity,https://dl.acm.org/doi/10.1145/1254960.1254990,C&C,2007
+36,Gestroviser: Toward Collaborative Agency in Digital Musical Instruments.,https://www.nime.org/proc/wmarley2015/index.html,NIME,2015
+37,The Scale Navigator: A System for Networked Algorithmic Harmony,https://www.nime.org/proc/turczan2019/index.html,NIME,2019
+38,Automatic Rhythmic Performance in Max/MSP: the kin.rhythmicator,https://www.nime.org/proc/sioros2011/index.html,NIME,2011
+39,Enabling Multimodal Mobile Interfaces for Musical Performance,https://www.nime.org/proc/roberts2013/index.html,NIME,2013
+40,A Physical Intelligent Instrument using Recurrent Neural Networks,https://www.nime.org/proc/nss2019/index.html,NIME,2019
+41,Mapping to musical actions in the FILTER system,https://www.nime.org/proc/nort2012/index.html,NIME,2012
+42,Towards a Human-Centric Design Framework for AI Assisted Music Production,https://www.nime.org/proc/nime20_78/index.html,NIME,2020
+43,ExSampling: a system for the real-time ensemble performance of field-recorded environmental sounds,https://www.nime.org/proc/nime20_58/index.html,NIME,2020
+44,Crowd-driven Music: Interactive and Generative Approaches using Machine Vision and Manhattan,https://www.nime.org/proc/nime20_49/index.html,NIME,2020
+45,Brainwaves-driven Effects Automation in Musical Performance,https://www.nime.org/proc/nime20_105/index.html,NIME,2020
+46,Designing Percussive Timbre Remappings: Negotiating Audio Representations and Evolving Parameter Spaces,https://www.nime.org/proc/nime2025_66/index.html,NIME,2025
+47,Live Improvisation with Fine-Tuned Generative AI: A Musical Metacreation Approach,https://www.nime.org/proc/nime2025_54/index.html,NIME,2025
+48,"Evolving the Living Looper: Artistic Research, Online Learning, and Tentacle Pendula",https://www.nime.org/proc/nime2025_36/index.html,NIME,2025
+49,Repurposing a Rhythm Accompaniment System for Pipe Organ Performance,https://www.nime.org/proc/nime2025_16/index.html,NIME,2025
+50,TungnaÃ¡: a Hyper-realistic Voice Synthesis Instrument for Real-Time Exploration of Extended Vocal Expressions,https://www.nime.org/proc/nime2024_78/index.html,NIME,2024
+51,Improvise+=Chain: Listening to the Ensemble Improvisation of an Autoregressive Generative Model,https://www.nime.org/proc/nime2023_94/index.html,NIME,2023
+52,SnakeSynth: New Interactions for Generative Audio Synthesis,https://www.nime.org/proc/nime2023_90/index.html,NIME,2023
+53,Rethinking Reflexive Looper for structured pop music,https://www.nime.org/proc/mmarchini2017/index.html,NIME,2017
+54,SoundGrasp : A Gestural Interface for the Performance of Live Music,https://www.nime.org/proc/mitchell2011/index.html,NIME,2011
+55,An Interactive Musical Prediction System with Mixture Density Recurrent Neural Networks,https://www.nime.org/proc/martin2019/index.html,NIME,2019
+56,"Integrating HyperInstruments , Musical Robots & Machine Musicianship for North Indian Classical Music",https://www.nime.org/proc/kapur2007/index.html,NIME,2007
+57,Improvised Duet Interaction: Learning Improvisation Techniques for Automatic Accompaniment,https://www.nime.org/proc/gxia2017/index.html,NIME,2017
+58,Wearable Interfaces for Cyberphysical Musical Expression,https://www.nime.org/proc/godbehere2008/index.html,NIME,2008
+59,Music for Flesh II: informing interactive music performance with the viscerality of the body system,https://www.nime.org/proc/donnarumma2012/index.html,NIME,2012
+60,Musical Exoskeletons : Experiments with a Motion Capture Suit,https://www.nime.org/proc/collins2010a/index.html,NIME,2010
+61,BRAAHMS: A Novel Adaptive Musical Interface Based on Users' Cognitive State,https://www.nime.org/proc/byuksel2015/index.html,NIME,2015
+62,When Counterpoint Meets Chinese Folk Melodies,https://papers.nips.cc/paper_files/paper/2020/hash/bae876e53dab654a3d9d9768b1b7b91a-Abstract.html,NeurIPS,2020
+63,Toward Real-Time Recognition of Instrumental Playing Techniques for Mixed Music: A Preliminary Analysis,https://hal.science/hal-04263718/file/Toward_Real_Time_Recognition_of_Instrumental_Playing_Techniques_for_Mixed_Music__A_Preliminary_Analysis_camera-ready.pdf,ICMC,2023
+64,The New StochGran: Expanded Stochastic Granular Synthesis Tools,https://drive.google.com/file/d/1aqgqYWbB1tgwU7ulXZguvKgcCO7VeCM8/view?usp=drive_link,ICMC,2023
+65,LEM: a sound object that performs Live Electronic Music and proposes a new way to compose and distribute music,,ICMC,2022
+66,MYtrOmbone: exploring gesture controlled live electronics in solo trombone performance,https://www.open-access.bcu.ac.uk/14157/1/MYtrOmbone-2020-FINAL-1.2.pdf,ICMC,2021
+67,Generate or Search: Na¨ıve Search Can Augment Piano Improvisation Experiences of Novice Players,https://drive.google.com/file/d/11ijp44Zm4TLHWy7l7Bhtu6jiHRWZTF2C/view?usp=drive_link,ICMC,2021
+68,Drumductor: A Gesture-Augmented Drum Pattern Generator,https://www.fulcrum.org/epubs/9880vt18d?locale=en#page=412,ICMC,2019
+69,Imitation Game: Real-time Decision-making in an Inter- active Composition for Human and Robotic Percussionist,https://interagency.iem.at/pdfs/Gioti_ICMC2019.pdf,ICMC,2019
+70,Proposal of Score-Following Reflecting Gaze Information on Cost of DP matching,https://quod.lib.umich.edu/i/icmc/bbp2372.2017.022/--proposal-of-score-following-reflecting-gaze-information?view=image,ICMC,2017
+71,InMuSIC: an Interactive Multimodal System for Electroacoustic Improvisation,https://quod.lib.umich.edu/i/icmc/bbp2372.2016.001/1/--inmusic-an-interactive-multimodal-system-for-electroacoustic?page=root;size=150;view=pdf,ICMC,2016
+72,AIIS: An Intelligent Improvisational System,https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quod.lib.umich.edu/cgi/p/pod/dod-idx/aiis-an-intelligent-improvisational-system.pdf%3Fc%3Dicmc%3Bidno%3Dbbp2372.2016.084%3Bformat%3Dpdf&ved=2ahUKEwiu2Yf8jsiPAxUjIkQIHew9DxEQFnoECBgQAQ&usg=AOvVaw0XVo6rmgcveD3yfnPVmhPy,ICMC,2016
+73,"Notes on “Culture of Fire” for Analog Neural Network Synthesizer, Geiger Muller Counters and Computer",https://quod.lib.umich.edu/i/icmc/bbp2372.2015.070/--notes-on-culture-of-fire-for-analog-neural-network?view=image,ICMC,2015
+74,“There is pleasure...”: An Improvisation Using the AAIM Performance System,https://quod.lib.umich.edu/cgi/p/pod/dod-idx/there-is-pleasure-an-improvisation-using-the-aaim.pdf?c=icmc;idno=bbp2372.2015.083,ICMC,2015
+75,Directed Transitional Composition for Gaming and Adaptive Music Using Q-Learning,http://smc.afim-asso.org/smc-icmc-2014/papers/images/VOL_1/0332.pdf,ICMC,2014
+76,Real-time Breeding Composition System by means of Genetic Programming and Breeding Procedure,http://speech.di.uoa.gr/ICMC-SMC-2014/images/VOL_1/0402.pdf,ICMC,2014
+77,Real-time Music Composition through P-timed Petri Nets,https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.icmc14-smc14.net/images/proceedings/OS25-B02-Real-timeMusicComposition.pdf&ved=2ahUKEwiGqf3qk8KPAxVpI0QIHRNFIHEQFnoECBcQAQ&usg=AOvVaw2zK9lLF8_xl7YIHX-Ga66P,ICMC,2014
+78,"Swarm Lake: A Game of Swarm Intelligence, Human Interaction and Collaborative Music Composition",https://quod.lib.umich.edu/cache//b/b/p/bbp2372.2014.066/bbp2372.2014.066.pdf#page=2;zoom=75,ICMC,2014
+79,AFFECTIVE JUKEBOX: A CONFIRMATORY STUDY OF EEG EMOTIONAL CORRELATES IN RESPONSE TO MUSICAL STIMULI,https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quod.lib.umich.edu/cgi/p/pod/dod-idx/affective-jukebox-a-confirmatory-study-of-eeg-emotional.pdf%3Fc%3Dicmc%3Bidno%3Dbbp2372.2014.090&ved=2ahUKEwjric3ZwsSPAxWgI0QIHV0wFJ8QFnoECBgQAQ&usg=AOvVaw3XvBCEILOMqEyC1m0vabv3,ICMC,2014
+80,Conceptual Blending in Biomusic Composition Space:The “Brainswarm” Paradigm,https://www.icmc14-smc14.net/images/proceedings/OS8-B04-ConceptualBlendinginBiomusicCompositionSpace.pdf,ICMC,2014
+81,P300 Harmonies: A Brain-Computer Musical Interface,https://mtg.upf.edu/system/files/publications/ZachariasVamvakousis.pdf,ICMC,2014
+82,SkipStep: A Multi-Paradigm Touch-screen Instrument,https://www.avneeshsarwate.com/static/papers/SkipStep.pdf,ICMC,2014
+83,"AutoChorusCreator : Four-Part Chorus Generator with Musical Feature Control, Using Search SpacesConstructed from Rules of Music Theory",https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quod.lib.umich.edu/cgi/p/pod/dod-idx/autochoruscreator-four-part-chorus-generator-with-musical.pdf%3Fc%3Dicmc%3Bidno%3Dbbp2372.2014.157%3Bformat%3Dpdf&ved=2ahUKEwjV_KLQtcWPAxXmLUQIHfPqM5oQFnoECBgQAQ&usg=AOvVaw0dBVr2d4U1-HLYYgckjo57,ICMC,2014
+84,A Multi-agent Interactive composing system for creating “expressive” accompaniment.,,ICMC,2014
+85,INTEGRATION OF MACHINE LEARNING ALGORITHMS IN THE COMPUTER-ACOUSTIC COMPOSITION GOLDSTREAM VARIATIONS,https://drive.google.com/file/d/1Oo0s6n8-vqFqVPYfSEoU0eO8ReweS5PJ/view?usp=sharing,ICMC,2013
+86,CONTROLLING DYNAMIC STOCHASTIC SYNTHESIS WITH AN AUDIO SIGNAL,https://drive.google.com/file/d/1MFi9WCRCB5ADiHjejJhh8yVSWziNNkg6/view?usp=sharing,ICMC,2012
+87,CALDER’S VIOLIN: REAL-TIME NOTATION AND PERFORMANCE THROUGH MUSICALLY EXPRESSIVE ALGORITHMS,https://drive.google.com/file/d/1Ae9tHSD1mzDqq1uS5Kii8Er6NSCOvsc7/view?usp=sharing,ICMC,2012
+88,AN AUTONOMOUS TIMBRE MATCHING IMPROVISER,https://drive.google.com/file/d/1zBCdvUkHuSIR2m0trvHEjiPTs1QDSNfZ/view?usp=sharing,ICMC,2011
+89,LIVECELL: REAL-TIME SCORE GENERATION THROUGH INTERACTIVE GENERATIVE COMPOSITION,https://drive.google.com/file/d/17o8vxjjuoRcDu33xLszejTcLvmAdeBt1/view?usp=sharing,ICMC,2011
+90,PAPAGEI: An Extensible Automatic Accompaniment System for Live Instrumental Improvisation,https://clarlow.org/wp-content/uploads/2025/06/papagei-an-extensible-automatic-accompaniment-system-for.pdf,ICMC,2009
+91,REINFORCEMENT LEARNING FOR LIVE MUSICAL AGENTS,https://composerprogrammer.com/research/rlforlivemusicalagents.pdf,ICMC,2008
+92,A REAL-TIME GENETIC ALGORITHM IN HUMANROBOT MUSICAL IMPROVISATION ,https://www.johnrhoads.org/demo/HaileGA.pdf,ICMC,2007
+93,NN MUSIC: IMPROVISING WITH A ‘LIVING’ COMPUTER,https://quod.lib.umich.edu/i/icmc/bbp2372.2007.108/1/--nn-music-improvising-with-a-living-computer?page=root;size=150;view=pdf,ICMC,2007
+94,Sparkler: An Audio-Driven Interactive Live Computer Performance for Symphony Orchestra,https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a713e7b38676cf3f2e6881b21b665cfe31a0eb88,ICMC,2002
+95,Bayesian Real-time Adaptation for Interactive Performance Systems,https://quod.lib.umich.edu/i/icmc/bbp2372.2001.025/1/--bayesian-real-time-adaptation-for-interactive-performance?page=root;size=150;view=pdf,ICMC,2001
+96,Harmonizing in Real-Time with Neural Networks,https://quod.lib.umich.edu/i/icmc/bbp2372.2000.170/1/--harmonizing-in-real-time-with-neural-networks?page=root;size=150;view=pdf,ICMC,2000
+97,Combining audio and gestures for a real-time improviser,https://opensoundcontrol.stanford.edu/files/icmc05fin.pdf,ICMC,2005
+98,SquishySonics: A Deformable Interface for the Physical Control of Real-time AI Sound Generation Tools,https://dl.acm.org/doi/10.1145/3706599.3721175,CHI,2025
+99,TimToShape: Supporting Practice of Musical Instruments by Visualizing Timbre with 2D Shapes based on Crossmodal Correspondences,https://dl.acm.org/doi/10.1145/3581641.3584053,IUI,2023
+100,Church Belles: An Interactive System and Composition Using Real-World Metaphors,https://www.nime.org/proc/waite2016/index.html,NIME,2016
+101,Non-intrusive Counter-actions: Maintaining Progressively Engaging Interactions for Music Performance,https://www.nime.org/proc/tahironicode287lu2016/index.html,NIME,2016
+102,Unsupervised Play: Machine Learning Toolkit for Max,https://www.nime.org/proc/smith2012a/index.html,NIME,2012
+103,Algorithmic Power Ballads,https://www.nime.org/proc/nime21_36/index.html,NIME,2021
+104,Support System for Improvisational Ensemble Based on Long Short-Term Memory Using Smartphone Sensor,https://www.nime.org/proc/nime20_77/index.html,NIME,2020
+105,Esteso: Interactive AI Music Duet Based on Player-Idiosyncratic Extended Double Bass Techniques,https://www.nime.org/proc/nime2024_72/index.html,NIME,2024
+106,Improvasher: A Real-Time Mashup System for Live Musical Input,https://www.nime.org/proc/mdavies2014/index.html,NIME,2014
+107,Shaping and Exploring Interactive Motion-Sound Mappings Using Online Clustering Techniques,https://www.nime.org/proc/hscurto2017/index.html,NIME,2017
+108,Musicianship for Robots with Style,https://www.nime.org/proc/gimenes2007/index.html,NIME,2007
+109,Cognitive Architecture in Mobile Music Interactions,https://www.nime.org/proc/derbinsky2011/index.html,NIME,2011
+110,Interacting with Musebots,https://www.nime.org/proc/brown2018/index.html,NIME,2018
+111,Toward an Emotionally Intelligent Piano: Real-Time Emotion Detection and Performer Feedback via Kinesthetic Sensing in Piano Performance,https://www.nime.org/proc/benasher2013/index.html,NIME,2013
+112,In A State: Live Emotion Detection and Visualisation for Music Performance,https://www.nime.org/proc/avantklooster2014/index.html,NIME,2014
+113,The Concatenator: A Bayesian Approach to Real Time Concatenative Musaicing,https://doi.org/10.5281/zenodo.14877471,ISMIR,
+114,The Robo-Cajon: An Example of Live Performance with Musical Robotics,,ICMC,2024
+115,Soundwriter: Real-Time Music Generation for Oral Storytelling through Emotion Mapping,https://www.fulcrum.org/epubs/9880vt18d?locale=en#page=107,ICMC,2019
+116,Populous Oscillation: Variety in Interactive Evolutionary Computation for Music Improvisation,,ICMC,2018
+117,A Real-Time Music Emotion Modulation System for Soundtracks,,ICMC,2017
+118,"AI See, You See: Human-AI Musical Collaboration in Augmented Reality",https://dl.acm.org/doi/10.1145/3706599.3720052,CHI,2025
+119,"Designing for Human-AI Interaction: Comparing Intermittent, Continuous, and Proactive Interactions for a Music Application",https://dl.acm.org/doi/10.1145/3613905.3650886,CHI,2024
+120,"Demonstration of Sympathetic Orchestra: An Interactive Conducting Education System for Responsive, Tacit Skill Development",https://dl.acm.org/doi/10.1145/3672539.3686783,UIST,2024
+121,MelodicBrush: a novel system for cross-modal digital art creation linking calligraphy and music,https://dl.acm.org/doi/10.1145/2317956.2318018,DIS,2012
+122,_derivations: improvisation for tenor saxophone and interactive performance system,https://dl.acm.org/doi/10.1145/2466627.2481226,C&C,2013
+123,Generative Improv . & Interactive Music Project (GIIMP),https://www.nime.org/proc/whalley2010/index.html,NIME,2010
+124,"PESI Extended System: In Space, On Body, with 3 Musicians",https://www.nime.org/proc/tahiroglu2013/index.html,NIME,2013
+125,An Intelligent Drum Machine for Electronic Dance Music Production and Performance,https://www.nime.org/proc/rvogl2017/index.html,NIME,2017
+126,Glitch Delighter : Lighter's Flame Base Hyper-Instrument for Glitch Music in Burning The Sound Performance,https://www.nime.org/proc/quintas2010/index.html,NIME,2010
+127,CAVI: A Coadaptive Audiovisual InstrumentâComposition,https://www.nime.org/proc/nime22_25/index.html,NIME,2022
+128,RAW: Exploring Control Structures for Muscle-based Interaction in Collective Improvisation,https://www.nime.org/proc/nime20_91/index.html,NIME,2020
+129,Melia: An Expressive Harmonizer at the Limits of AI,https://www.nime.org/proc/nime2025_93/index.html,NIME,2025
+130,EMMA: Enhancing Real-Time Musical Expression through Electromyographic Control,https://www.nime.org/proc/nime2025_35/index.html,NIME,2025
+131,Muscle-Guided Guitar Pedalboard: Exploring Interaction Strategies Through Surface Electromyography and Deep Learning,https://www.nime.org/proc/nime2024_37/index.html,NIME,2024
+132,"eTud,be: case studies in playing with musical agents",https://www.nime.org/proc/nime2023_39/index.html,NIME,2023
+133,A Human-Agents Music Performance System in an Extended Reality Environment,https://www.nime.org/proc/nime2023_2/index.html,NIME,2023
+134,An Exploration of Peg Solitaire as a Compositional Tool,https://www.nime.org/proc/kkeatch2014/index.html,NIME,2014
+135,ism: Improvisation Supporting System based on Melody Correction,https://www.nime.org/proc/ishida2004/index.html,NIME,2004
+136,Real-time Adaptive Control of Modal Synthesis,https://www.nime.org/proc/hoskinson2003/index.html,NIME,2003
+137,GestureRNN:  A neural gesture system for the Roli Lightpad Block,https://www.nime.org/proc/hantrakul2018/index.html,NIME,2018
+138,Automatic Recognition of Soundpainting for the Generation of Electronic Music Sounds,https://www.nime.org/proc/gomezjauregui2019/index.html,NIME,2019
+139,In Duet with Everyday Urban Settings: A User Study of Sonic City,https://www.nime.org/proc/gaye2004/index.html,NIME,2004
+140,An Interface for Live Interactive Sonification,https://www.nime.org/proc/ferguson2009/index.html,NIME,2009
+141,An Agent-based System for Robotic Musical Performance,https://www.nime.org/proc/eigenfeldt2008/index.html,NIME,2008
+142,TweetDreams : Making Music with the Audience and the World using Real-time Twitter Data,https://www.nime.org/proc/dahl2011/index.html,NIME,2011
+143,Musician and Mega-Machine: Compositions Driven by Real-Time Particle Collision Data from the ATLAS Detector,https://www.nime.org/proc/cherston2016/index.html,NIME,2016
+144,Network Jamming : Distributed Performance using Generative Music,https://www.nime.org/proc/brown2010/index.html,NIME,2010
+145,Sound Analyser: A Plug-In for Real-Time Audio Analysis in Live Performances and Installations,https://www.nime.org/proc/astark2014/index.html,NIME,2014
+146,Musical Micro-Timing for Live Coding,https://doi.org/10.5281/zenodo.10265231,ISMIR,2023
+147,"Collaboration Between Robots, Interfaces and Humans: Practice-Based and Audience Perspectives",https://arxiv.org/pdf/2407.16966,ICMC,2024
+148,Music Intelligence and Knowledge Agent (MIKA),,ICMC,2019
+149,The Real-time Synthesis of the Ancient Chinese Chime-Bells Instrument of Marquis Yiġin Max/Msp,,ICMC,2019
+150,REVIVE: An Audio-visual Performance with Musical and Visual AI Agents,https://dl.acm.org/doi/10.1145/3170427.3177771,CHI,2018
+151,JamSketch: A Drawing-based Real-time Evolutionary Improvisation Support System,https://www.nime.org/proc/tkitahara2017/index.html,NIME,2017
+152,RhumbLine: Plectrohyla Exquisita â Spatial Listening of Zoomorphic Musical Robots,https://www.nime.org/proc/nime21_79/index.html,NIME,2021
+153,A Laptop Ensemble Performance System using Recurrent Neural Networks,https://www.nime.org/proc/nime20_9/index.html,NIME,2020
+154,Gesture-Driven DDSP Synthesis for Digitizing the Chinese Erhu,https://www.nime.org/proc/nime2025_73/index.html,NIME,2025
+155,Real-Time Co-Creation of Expressive Music Performances Using Speech and Gestures,https://www.nime.org/proc/nime2023_91/index.html,NIME,2023
+156,ImprovGenerator : Online Grammatical Induction for On-the-Fly Improvisation Accompaniment,https://www.nime.org/proc/kitani2010/index.html,NIME,2010
+157,Generating an Integrated Musical Expression with a Brain--Computer Interface,https://www.nime.org/proc/hamano2013/index.html,NIME,2013
+158,"A Knowledge-based, Data-driven Method for Action-sound Mapping",https://www.nime.org/proc/fvisi2017/index.html,NIME,2017
+159,Motivated Learning in Human-Machine Improvisation,https://www.nime.org/proc/beyls2018/index.html,NIME,2018
+160,"AMIGO: An Assistive Musical Instrument to Engage, Create and Learn Music",https://www.nime.org/proc/almeida2019/index.html,NIME,2019
+161,Real-Time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar,https://doi.org/10.5281/zenodo.10265236,ISMIR,
+162,CalmusWaves: Where Dancers Compose Music in Real-Time,,ICMC,2017
+163,Dadabots: Prompt Jockeys - The Rise of DJing with a Neural Network,https://www.youtube.com/watch?v=_fpnAHoRSqU,Video,
+164,Magenta + Deeplocal + The Flaming Lips = Fruit Genie,https://magenta.tensorflow.org/fruitgenie,Video,
+165,Semilla A.I. (physical RAVE synth based on ancient mesoamerican rituals)  ,https://www.youtube.com/watch?v=_2C3XeQgGtY,Video,
+166,"Magnetologues - for two Stacco, Neural Synth and Ambisonics",https://www.youtube.com/watch?v=Bt3O-jhSqiU&t=75s,Video,
+167,Sophtar (string instrument with embedded RAVE/Notochord),https://www.youtube.com/watch?v=lpw6pRQltrY&list=RDlpw6pRQltrY&start_radio=1,Video,
+168,Umwelt Synthesis (Rob Clouth's Cheatboxing - beatbox to drums) ,https://www.youtube.com/watch?v=a6jmnD-c9lo,Video,
+169,BIGYUKI × Qosmo — John Connor Project / 2023.8.22 BAROOM,https://qosmo.jp/en/art/bigyuki,Video,
+170,Live Music Performance using A.I. - Trumpet & Electronics,https://www.youtube.com/watch?v=ETNmG_dUcZ8,Video,
+171,How IU professors use AI to improvise music in their studio,https://www.youtube.com/watch?v=hA_Cq3qcHCM,Video,
+172,Joint improvisation between human and AI,https://www.youtube.com/watch?v=sIFbvgmYBA0&list=RDsIFbvgmYBA0&start_radio=1,Video,
+173,Piano AI Improvisation - Single Instrument sample,https://www.youtube.com/watch?v=loztbOaOWn8&list=RDloztbOaOWn8&start_radio=1,Video,
+174,Harmonizing with AI: An Unprecedented Musical Improvisation! (Chat GPT 4),https://www.youtube.com/watch?v=tVfAfKBWt5k&list=RDtVfAfKBWt5k&start_radio=1,Video,
+175,AI & Music Improvisation. Research collaboration Melbourne/London,https://www.youtube.com/watch?v=GrM_Ls3PnfA,Video,
+176,Musical Improvisation with AI,https://www.youtube.com/watch?v=NnBnCj_LSV8,Video,
+177,AI DJ Project #2 Ubiquitous Rhythm — A Spontaneous Jam Session with AI,https://www.youtube.com/watch?v=XM02IT00rq8,Video,
+178,Magenta AI Jam Session,https://www.youtube.com/watch?v=QlVoR1jQrPk,Video,
+179,AI Jam Session: Vibe-Coding meets Live-Coding Music with Emergentic.ai in Strudel,https://www.youtube.com/watch?v=u6NJCSC5SP8,Video,
+180,Jam Session With My AI,https://www.youtube.com/watch?v=Cxim3MFILW8,Video,
+181,Live-coding music with a Deep Neural Network,https://www.youtube.com/watch?v=6ekNzbftZcQ,Video,
+182,Exploring Real-Time Biomedical Data Science and Gesture-Driven Music Generation | BioniChaos,https://www.youtube.com/watch?v=_wZDdtfjqNg,Video,
+183,【AI Music】Real-time music generation on everyone's comments! [Lofi/Chill radio]22,https://www.youtube.com/watch?v=4TDCN1SCew0,Video,
+184,"Drumnose (with closeups) in real-time, algorithmic music/ rhythm generation (#2)",https://www.youtube.com/watch?v=YexnsjonT2U,Video,
+185,Improvisation with AI,https://www.youtube.com/watch?v=WruN6En74FU,Video,
+186,"Intersections // Man, Machine & Improvisation",https://www.youtube.com/watch?v=mWKK-_qUSBE,Video,
+187,Uncanny Love - An AI Driven Improvisation on Human Machine Bonds,https://www.youtube.com/watch?v=WqhgmudVAc4&list=RDWqhgmudVAc4&start_radio=1,Video,
+188,Me/Machine - real-time improvisational interaction between a computer and a musician,https://www.youtube.com/watch?v=XaqTkLI4DxQ,Video,
+189,Realtime Neural Audio Synthesis - embedded RAVE #2,https://www.youtube.com/watch?v=jAIRf4nGgYI,Video,
+190,Neurorack - The first deep AI-based Eurorack synthesizer,https://www.youtube.com/watch?v=64VpQenCHVs,Video,
+191,Approaches to Musical Expression in Harmonix Video Games (Fantasia),,,2014
+192,Composing the Assemblage: Probing Aesthetic and Technical Dimensions of Artistic Creation with Machine Learning (Case 2),,,
