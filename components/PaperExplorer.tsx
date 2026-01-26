@@ -62,7 +62,7 @@ const DimensionFilter: React.FC<{
                 </svg>
                 <span className="text-base font-medium text-gray-300">{dimension}</span>
                 {selectedCount > 0 && (
-                    <span className="bg-blue-600 text-white text-xs font-bold rounded-full h-5 w-5 flex items-center justify-center">
+                    <span className="highlight-button text-xs font-bold rounded-full h-5 w-5 flex items-center justify-center">
                         {selectedCount}
                     </span>
                 )}
@@ -164,7 +164,7 @@ const PaperExplorer: React.FC<PaperExplorerProps> = ({
                         onClick={() => setSelectedAspect(name)}
                         className={`flex-1 py-2 px-1 text-center text-base font-medium rounded-md transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800
                             ${selectedAspect === name 
-                                ? 'bg-blue-600 text-white shadow' 
+                                ? 'highlight-button shadow' 
                                 : 'text-gray-300 hover:bg-gray-600/50'
                             }`
                         }

@@ -358,7 +358,7 @@ const Sidebar: React.FC<SidebarProps> = ({
       <div className="flex gap-3 mb-8">
         <button 
           onClick={() => setCurrentView(View.ABOUT)}
-          className={`flex-1 text-center py-2 px-2 rounded text-sm font-medium transition-colors shadow-md hover:shadow-lg flex items-center justify-center gap-2 ${currentView === View.ABOUT ? 'bg-blue-600 text-white' : 'bg-gray-700 hover:bg-gray-600 text-white'}`}
+          className={`flex-1 text-center py-2 px-2 rounded text-sm font-medium transition-colors shadow-md hover:shadow-lg flex items-center justify-center gap-2 ${currentView === View.ABOUT ? 'highlight-button' : 'bg-gray-700 hover:bg-gray-600 text-white'}`}
         >
           <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
             <path d="M18 3a1 1 0 00-1.196-.98l-10 2A1 1 0 006 5v9.114A4.369 4.369 0 005 14c-1.657 0-3 .895-3 2s1.343 2 3 2 3-.895 3-2V7.82l8-1.6v5.894A4.37 4.37 0 0015 12c-1.657 0-3 .895-3 2s1.343 2 3 2 3-.895 3-2V3z" />
@@ -397,25 +397,25 @@ const Sidebar: React.FC<SidebarProps> = ({
         <div className="grid grid-cols-2 gap-2">
           <button
             onClick={() => setCurrentView(View.EXPLORER)}
-            className={`px-3 py-2.5 text-base font-medium rounded-md transition-colors ${currentView === View.EXPLORER ? 'bg-blue-600 text-white shadow' : 'bg-gray-900/50 text-gray-400 hover:bg-gray-700 border border-gray-700'}`}
+            className={`px-3 py-2.5 text-base font-medium rounded-md transition-colors ${currentView === View.EXPLORER ? 'highlight-button shadow' : 'bg-gray-900/50 text-gray-400 hover:bg-gray-700 border border-gray-700'}`}
           >
             Explorer
           </button>
           <button
             onClick={() => setCurrentView(View.DISTRIBUTION)}
-            className={`px-3 py-2.5 text-base font-medium rounded-md transition-colors ${currentView === View.DISTRIBUTION ? 'bg-blue-600 text-white shadow' : 'bg-gray-900/50 text-gray-400 hover:bg-gray-700 border border-gray-700'}`}
+            className={`px-3 py-2.5 text-base font-medium rounded-md transition-colors ${currentView === View.DISTRIBUTION ? 'highlight-button shadow' : 'bg-gray-900/50 text-gray-400 hover:bg-gray-700 border border-gray-700'}`}
           >
             Frequency
           </button>
           <button
             onClick={() => setCurrentView(View.TRENDS)}
-            className={`px-3 py-2.5 text-base font-medium rounded-md transition-colors ${currentView === View.TRENDS ? 'bg-blue-600 text-white shadow' : 'bg-gray-900/50 text-gray-400 hover:bg-gray-700 border border-gray-700'}`}
+            className={`px-3 py-2.5 text-base font-medium rounded-md transition-colors ${currentView === View.TRENDS ? 'highlight-button shadow' : 'bg-gray-900/50 text-gray-400 hover:bg-gray-700 border border-gray-700'}`}
           >
             Trends
           </button>
           <button
             onClick={() => setCurrentView(View.CO_OCCURRENCE)}
-            className={`px-3 py-2.5 text-base font-medium rounded-md transition-colors ${currentView === View.CO_OCCURRENCE ? 'bg-blue-600 text-white shadow' : 'bg-gray-900/50 text-gray-400 hover:bg-gray-700 border border-gray-700'}`}
+            className={`px-3 py-2.5 text-base font-medium rounded-md transition-colors ${currentView === View.CO_OCCURRENCE ? 'highlight-button shadow' : 'bg-gray-900/50 text-gray-400 hover:bg-gray-700 border border-gray-700'}`}
           >
             Co-occurrence
           </button>
@@ -430,19 +430,19 @@ const Sidebar: React.FC<SidebarProps> = ({
           <div className="flex bg-gray-700 rounded-lg p-1">
             <button
               onClick={() => setSourceTypeFilter('all')}
-              className={`w-1/3 py-2 text-base font-medium rounded-md transition-colors ${sourceTypeFilter === 'all' ? 'bg-blue-600 text-white shadow' : 'text-gray-400 hover:bg-gray-600'}`}
+              className={`w-1/3 py-2 text-base font-medium rounded-md transition-colors ${sourceTypeFilter === 'all' ? 'highlight-button shadow' : 'text-gray-400 hover:bg-gray-600'}`}
             >
               All
             </button>
             <button
               onClick={() => setSourceTypeFilter('paper')}
-              className={`w-1/3 py-2 text-base font-medium rounded-md transition-colors ${sourceTypeFilter === 'paper' ? 'bg-blue-600 text-white shadow' : 'text-gray-400 hover:bg-gray-600'}`}
+              className={`w-1/3 py-2 text-base font-medium rounded-md transition-colors ${sourceTypeFilter === 'paper' ? 'highlight-button shadow' : 'text-gray-400 hover:bg-gray-600'}`}
             >
               Papers
             </button>
             <button
               onClick={() => setSourceTypeFilter('video')}
-              className={`w-1/3 py-2 text-base font-medium rounded-md transition-colors ${sourceTypeFilter === 'video' ? 'bg-blue-600 text-white shadow' : 'text-gray-400 hover:bg-gray-600'}`}
+              className={`w-1/3 py-2 text-base font-medium rounded-md transition-colors ${sourceTypeFilter === 'video' ? 'highlight-button shadow' : 'text-gray-400 hover:bg-gray-600'}`}
             >
               Videos
             </button>
@@ -590,7 +590,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                                     title="Selects the 4 most frequently studied musical contexts."
                                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                                     activePreset === 'top-contexts'
-                                        ? 'bg-blue-600 text-white shadow'
+                                        ? 'highlight-button shadow'
                                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                                     }`}
                                 >
@@ -601,7 +601,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                                     title="Selects Live coding, Traditional music, and Virtuosic practice to highlight emerging research areas."
                                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                                     activePreset === 'emerging-contexts'
-                                        ? 'bg-blue-600 text-white shadow'
+                                        ? 'highlight-button shadow'
                                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                                     }`}
                                 >
@@ -612,7 +612,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                                     title="Compares Musicians, Novice users, and Audience."
                                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                                     activePreset === 'target-users'
-                                        ? 'bg-blue-600 text-white shadow'
+                                        ? 'highlight-button shadow'
                                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                                     }`}
                                 >
@@ -627,7 +627,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                                     title="Highlights newer interface types like Embodied agents, XR, and Live coding interfaces."
                                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                                     activePreset === 'emerging-interfaces'
-                                        ? 'bg-blue-600 text-white shadow'
+                                        ? 'highlight-button shadow'
                                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                                     }`}
                                 >
@@ -638,7 +638,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                                     title="Compares User configuration, Tailoring, and Score planning methods."
                                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                                     activePreset === 'planning-methods'
-                                        ? 'bg-blue-600 text-white shadow'
+                                        ? 'highlight-button shadow'
                                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                                     }`}
                                 >
@@ -649,7 +649,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                                     title="Compares different temporal structures like Dense parallel and Turn-taking."
                                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                                     activePreset === 'temporal-structure'
-                                        ? 'bg-blue-600 text-white shadow'
+                                        ? 'highlight-button shadow'
                                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                                     }`}
                                 >
@@ -664,7 +664,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                                     title="Comparison of AI Model Architectures like Task-specific DNN and Generative AI."
                                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                                     activePreset === 'ai-models'
-                                        ? 'bg-blue-600 text-white shadow'
+                                        ? 'highlight-button shadow'
                                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                                     }`}
                                 >
@@ -675,7 +675,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                                     title="Compares Offline, Online, and Continual adaptation strategies."
                                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                                     activePreset === 'adaptation-trends'
-                                        ? 'bg-blue-600 text-white shadow'
+                                        ? 'highlight-button shadow'
                                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                                     }`}
                                 >
@@ -686,7 +686,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                                     title="Trends in how systems are integrated into workflows."
                                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                                     activePreset === 'integration-trends'
-                                        ? 'bg-blue-600 text-white shadow'
+                                        ? 'highlight-button shadow'
                                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                                     }`}
                                 >
@@ -701,7 +701,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                                     title="Overview of sociocultural factors influencing system design."
                                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                                     activePreset === 'sociocultural-trends'
-                                        ? 'bg-blue-600 text-white shadow'
+                                        ? 'highlight-button shadow'
                                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                                     }`}
                                 >
@@ -712,7 +712,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                                     title="Trends in policy factors like Data privacy and Copyright."
                                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                                     activePreset === 'policy-considerations'
-                                        ? 'bg-blue-600 text-white shadow'
+                                        ? 'highlight-button shadow'
                                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                                     }`}
                                 >
@@ -723,7 +723,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                                     title="Trends in economic consequences like Job replacement."
                                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                                     activePreset === 'economic-consequences'
-                                        ? 'bg-blue-600 text-white shadow'
+                                        ? 'highlight-button shadow'
                                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                                     }`}
                                 >
@@ -918,7 +918,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                     title="Explore the relationship between why a system is used and what users prefer."
                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                       activeCooccurrencePreset === 'purpose-preference'
-                        ? 'bg-blue-600 text-white shadow'
+                        ? 'highlight-button shadow'
                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                     }`}
                   >
@@ -929,7 +929,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                     title="Analyze how the user's role corresponds to the AI agent's role in the interaction."
                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                       activeCooccurrencePreset === 'user-agent-roles'
-                        ? 'bg-blue-600 text-white shadow'
+                        ? 'highlight-button shadow'
                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                     }`}
                   >
@@ -940,7 +940,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                     title="Investigate the connection between the intended user group and the specific role they play."
                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                       activeCooccurrencePreset === 'target-user-role'
-                        ? 'bg-blue-600 text-white shadow'
+                        ? 'highlight-button shadow'
                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                     }`}
                   >
@@ -951,7 +951,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                     title="Compare how different user value emphases align with system adaptation strategies."
                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                       activeCooccurrencePreset === 'value-adaptation'
-                        ? 'bg-blue-600 text-white shadow'
+                        ? 'highlight-button shadow'
                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                     }`}
                   >
@@ -962,7 +962,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                     title="Examine learning algorithms and adaptation specifically for systems emphasizing Personalization."
                     className={`w-full text-left py-2 px-3 text-base rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-gray-800 ${
                       activeCooccurrencePreset === 'learning-adaptation-pers'
-                        ? 'bg-blue-600 text-white shadow'
+                        ? 'highlight-button shadow'
                         : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
                     }`}
                   >
