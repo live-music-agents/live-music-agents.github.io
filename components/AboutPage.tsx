@@ -4,7 +4,7 @@ import { PAPER_URL } from '../constants';
 
 const AboutPage: React.FC = () => {
   return (
-    <div className="flex flex-col h-full bg-transparent overflow-auto">
+    <div className="flex flex-col h-full bg-transparent overflow-auto no-scrollbar">
       <div className="w-full">
         <a
           href={PAPER_URL}
@@ -16,12 +16,28 @@ const AboutPage: React.FC = () => {
             A Design Space for Live Music Agents
           </h1>
         </a>
-        <h4 className="text-lg text-gray-300 mb-2"> Yewon Kim, Stephen Brade, Alexander Wang, David Zhou, Haven Kim, Bill Wang, Sung-Ju Lee, Hugo F Flores Garcia, Anna Huang, Chris Donahue </h4>
-        <h4 className="text-lg text-gray-300 mb-8"> Published at CHI 2026 </h4>
+        
+        <h4 className="text-lg text-gray-300 mb-2">
+          Yewon Kim<sup>1</sup>, Stephen Brade<sup>2</sup>, Alexander Wang<sup>1</sup>, 
+          David Zhou<sup>3</sup>, Haven Kim<sup>4</sup>, Bill Wang<sup>4</sup>, 
+          Sung-Ju Lee<sup>5</sup>, Hugo F Flores Garcia<sup>6</sup>, 
+          Anna Huang<sup>2</sup>, Chris Donahue<sup>1</sup>
+        </h4>
+
+        <h4 className="text-md text-gray-300 mb-2">
+          <sup>1</sup>CMU &nbsp;
+          <sup>2</sup>MIT &nbsp;
+          <sup>3</sup>UIUC &nbsp;
+          <sup>4</sup>UCSD &nbsp;
+          <sup>5</sup>KAIST &nbsp;
+          <sup>6</sup>Northwestern University
+        </h4>
+
+        <h4 className="text-lg text-gray-300 mb-8">Published at CHI 2026 </h4>
         
         <div className="bg-gray-800/50 rounded-lg shadow-sm">
           <section>
-            <div className="mt-6">
+            <div className="mt-6 px-2">
               <img
                 src={designspaceImage}
                 alt="Design space overview"
@@ -56,10 +72,10 @@ const AboutPage: React.FC = () => {
               <h3 className="text-xl font-semibold text-gray-200">Contribute</h3>
               <ul className="list-disc pl-6 space-y-2">
                 <li>
-                  Add your paper/system: Complete <a href="https://docs.google.com/forms/d/e/1FAIpQLSdsJ8EVET8af8LkLAAhbOpM385IupkmNEQr7pAskKkMm1asSA/viewform?usp=dialog" target="_blank" rel="noopener noreferrer" className="highlight-link">this form</a> to include your live music agent in our dataset.
+                  <strong>Add your paper/system:</strong> Complete <a href="https://docs.google.com/forms/d/e/1FAIpQLSdsJ8EVET8af8LkLAAhbOpM385IupkmNEQr7pAskKkMm1asSA/viewform?usp=dialog" target="_blank" rel="noopener noreferrer" className="highlight-link">this form</a> to include your live music agent in our dataset.
                 </li>
                 <li>
-                  Report issues or corrections: Email Yewon Kim at <a href="mailto:yewon@cmu.edu" className="highlight-link">yewon@cmu.edu</a>.
+                  <strong>Report issues or corrections:</strong> Email Yewon Kim at <a href="mailto:yewon@cmu.edu" className="highlight-link">yewon@cmu.edu</a>.
                 </li>
               </ul>
             </div>
