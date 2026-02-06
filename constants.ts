@@ -6,4 +6,4 @@ export const ASPECT_COLORS: Record<string, { container: string; title: string; t
   'Ecosystem': { container: 'bg-green-500/10 border-green-500/30', title: 'text-green-300', tag: 'bg-green-500/20 text-green-300' },
 };
 export const DEFAULT_COLORS = { container: 'bg-gray-700/20 border-gray-700', title: 'text-gray-300', tag: 'bg-gray-700 text-gray-300' };
-export const PAPER_URL = 'https://example.com/paper';
+export const PAPER_URL = 'http://arxiv.org/abs/2602.05064';
